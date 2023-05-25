@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Press+Start+2P&display=swap');
 
+
 header {
     display: flex;
     align-items: center;
@@ -9,7 +10,7 @@ header {
     padding: 10px 20px;
 }
 
-h2 {
+#name {
     color: #c8d6e5;
     font-size: 25px;
     font-family: 'Press Start 2P', cursive, sans-serif;

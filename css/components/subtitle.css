@@ -1,6 +1,6 @@
-h2 {
-    font-size: 30px;
-    font-family: 'Press Start 2P', sans-serif;
-    color: #01a3a4;
-    text-shadow: 4px 4px 0px #c8d6e5;
+.subtitle {
+    color: #c8d6e5;
+    font-size: 25px;
+    font-family: 'Press Start 2P', cursive, sans-serif;
+    text-shadow: 5px 5px 0px #4a5aa2;
 }

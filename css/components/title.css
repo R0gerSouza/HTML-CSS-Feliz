@@ -1,6 +1,13 @@
-h1 {
+.title-box {
     font-family: 'Press Start 2P', sans-serif;
     font-size: 40px;
     color: #c8d6e5;
-    text-shadow: 4px 4px 0px #000;
+    text-shadow: 4px 4px 0px #4a5aa2;
+}
+
+.subtitle-box {
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 30px;
+    color: #4a5aa2;
+    text-shadow: 4px 4px 0px #c8d6e5;
 }
